@@ -50,3 +50,23 @@ Este comando solo puede ser ejecutado por el dueño del canal.
 
 %p add 1 // Si no se especifica la cantidad a añadir, se añadira 1 al canal respectivo
 ```
+
+* Comando Hug
+
+El comando hug manda una solicitud de abrazo a la persona mencionada, esta persona decide si la acepta o la rechaza.
+
+La solicitud solo puede ser aceptada o rechazada por la persona mencionada.
+
+```
+%hug [mención]
+
+%h [mención]
+```
+
+**EL ARGUMENTO DE MENCIÓN ES OBLIGATORIO**
+
+> No introducir un argumento ocasiona en error
+ 
+> Introducir un argumento erroneo ocasiona error
+
+* Funcionameinto de comando hug
