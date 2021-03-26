@@ -1,4 +1,4 @@
 # Horror helper
 ***
 
-![Image text](C:\\Users\\Nicolas\\Pictures\\nuevo logo.png)
+![image info](./Pictures/nuevo logo.png)
