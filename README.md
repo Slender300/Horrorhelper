@@ -31,12 +31,20 @@ Este comando solo puede ser ejecutado por el dueño del canal.
 %p [operación] [canal] [cantidad]
 ```
 
+**LOS ARGUMENTOS DE "OPERACION" Y "CANAL" SON OBLIGATORIOS**
+
+> Introducir una operación no valida ocasiona un error
+
+> Introducir un canal no existente ocuasiona un error de tipo: null
+
+> Introducir palabras en el argumento de cantidad ocasiona un error de tipo: input String
+
 * Ejemplos de comando progress
 
 ```
 %p add 1 50 // Añade 50 al canal de en la posición 1 de progresos
 
-%p reset 3 // Reseta el canal en la posición 3 de progreso
+%p reset 3 // Reseta el canal en la posición 3 de progresos
 
 %p set 2 8 // Coloca el número de progreso del canal en la posición 2 en 8
 
