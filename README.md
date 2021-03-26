@@ -63,7 +63,7 @@ La solicitud solo puede ser aceptada o rechazada por la persona mencionada.
 %h [mención]
 ```
 
-**EL ARGUMENTO DE MENCIÓN ES OBLIGATORIO**
+**EL ARGUMENTO DE "MENCIÓN" ES OBLIGATORIO**
 
 > No introducir un argumento ocasiona en error
  
