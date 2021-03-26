@@ -1,8 +1,6 @@
 # Horror helper
 
-***
 ![image](https://i.imgur.com/OMsIuEu.png)
-***
 
 ## Tabla de contenidos
 
@@ -18,4 +16,5 @@
 
 Horror helper es un bot hecho en Java destinado a ayudar
 a los usuarios de Horror in the woods para mejorar su experiencia
+
 
