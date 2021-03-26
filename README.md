@@ -70,3 +70,16 @@ La solicitud solo puede ser aceptada o rechazada por la persona mencionada.
 > Introducir un argumento erroneo ocasiona error
 
 * Funcionameinto de comando hug
+***
+
+### Java
+
+Lenguaje de programacón orientado a objetos basado en otro lenguaje de programación llamado "C".
+
+Este lenguaje es altamente conocido por Minecraft, pero no es el único programa que lo usa, pues en los Blue ray, Celulares Android, Servidores e incluso Smart TV's
+se usa este lenguaje para crear funciones o aplicaciones.
+
+A pesar de tener mala fama no deja de ser uno de los lenguajes de programación orientado a objetos mas poderosos y rapidos del mundo.
+
+En esta parte se te explicara como funciana Java y como programar en el (Al menos lo más basico) para que de una vez entiendas Java y puedas ayudar 
+a detectar errores con más facilidad
