@@ -82,4 +82,4 @@ se usa este lenguaje para crear funciones o aplicaciones.
 A pesar de tener mala fama no deja de ser uno de los lenguajes de programación orientado a objetos mas poderosos y rapidos del mundo.
 
 En esta parte se te explicara como funciana Java y como programar en el (Al menos lo más basico) para que de una vez entiendas Java y puedas ayudar 
-a detectar errores con más facilidad
+a detectar errores con más facilidad.
