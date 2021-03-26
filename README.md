@@ -12,9 +12,10 @@
 
 ### Descripción
 
-***
-
 Horror helper es un bot hecho en Java destinado a ayudar
 a los usuarios de Horror in the woods para mejorar su experiencia
 
+***
+
+### Comandos
 
