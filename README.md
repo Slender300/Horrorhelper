@@ -1,4 +1,4 @@
 # Horror helper
 ***
 
-![image info](./pictures/nuevo logo.png)
+![image info](./pictures/Horror.png)
