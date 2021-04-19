@@ -6,13 +6,13 @@
 
 1. [Descripción](#descripción)
 2. [Comandos](#comandos)
-3. [Java](#java)
+3. [C#](#C#)
 
 ***
 
 ### Descripción
 
-Horror helper es un bot hecho en Java destinado a ayudar
+Horror helper es un bot hecho en C# destinado a ayudar
 a los usuarios de Horror in the woods para mejorar su experiencia
 
 ***
@@ -35,9 +35,7 @@ Este comando solo puede ser ejecutado por el dueño del canal.
 
 > Introducir una operación no valida ocasiona un error
 
-> Introducir un canal no existente ocuasiona un error de tipo: null
-
-> Introducir palabras en el argumento de cantidad ocasiona un error de tipo: input String
+> Introducir palabras en el argumento de cantidad ocasiona un error
 
 * Ejemplos de comando progress
 
@@ -53,14 +51,12 @@ Este comando solo puede ser ejecutado por el dueño del canal.
 
 * Comando Hug
 
-El comando hug manda una solicitud de abrazo a la persona mencionada, esta persona decide si la acepta o la rechaza.
-
-La solicitud solo puede ser aceptada o rechazada por la persona mencionada.
+El comando hug abraza a la persona mencionada, esta persona decide si la acepta o la rechaza.
 
 ```
 %hug [mención]
 
-%h [mención]
+%a [mención]
 ```
 
 **EL ARGUMENTO DE "MENCIÓN" ES OBLIGATORIO**
@@ -72,14 +68,11 @@ La solicitud solo puede ser aceptada o rechazada por la persona mencionada.
 * Funcionameinto de comando hug
 ***
 
-### Java
+### C#
 
-Lenguaje de programacón orientado a objetos basado en otro lenguaje de programación llamado "C".
+Lenguaje de programacón orientado a objetos basado en otro lenguaje de programación llamado "C" y desarollado por Microsoft.
 
-Este lenguaje es altamente conocido por Minecraft, pero no es el único programa que lo usa, pues en los Blue ray, Celulares Android, Servidores e incluso Smart TV's
-se usa este lenguaje para crear funciones o aplicaciones.
+Este lenguaje es altamente conocido por el motor de juegos Unity
 
-A pesar de tener mala fama no deja de ser uno de los lenguajes de programación orientado a objetos mas poderosos y rapidos del mundo.
-
-En esta parte se te explicara como funciana Java y como programar en el (Al menos lo más basico) para que de una vez entiendas Java y puedas ayudar 
+En esta parte se te explicara como funciana C# y como programar en el (Al menos lo más basico) para que de una vez entiendas C# y puedas ayudar 
 a detectar errores con más facilidad.
